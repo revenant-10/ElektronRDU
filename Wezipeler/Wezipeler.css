@@ -1,0 +1,16 @@
+.wezipelerWrapper > .MuiButtonGroup-contained > button{
+	width: 230px;
+	background-color: rgb(140,140,140);
+}
+
+.wezipelerWrapper > .MuiButtonGroup-contained > button:hover{
+	background-color: rgb(120,120,120);
+}
+
+.wezipelerWrapper > .MuiButtonGroup-contained > .activeButton{
+	background-color: blue;
+}
+
+.wezipelerWrapper > .MuiButtonGroup-contained > .activeButton:hover{
+	background-color: darkblue;
+}
